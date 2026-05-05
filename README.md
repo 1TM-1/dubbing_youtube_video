@@ -166,8 +166,12 @@ cd tts_dubbing_youtube
 pip install -r requirements.txt
 ```
 ## ▶️ Cách chạy
+
+```bash
 python src/main.py
+```
 ## 🛠️ Công nghệ
+
 - yt-dlp
 - youtube-transcript-api
 - deep-translator
@@ -177,11 +181,13 @@ python src/main.py
 - PyQt6
 - FFmpeg (đã tích hợp)
 ## ⚠️ Hạn chế
+
 - Audio có thể lệch
 - Có thể bị chồng tiếng
 - Giọng gTTS chưa tự nhiên
 - Dịch chưa chính xác hoàn toàn
 ## 🔮 Hướng phát triển
+
 - Căn chỉnh tốt hơn (DTW)
 - Dùng Whisper
 - TTS xịn hơn
