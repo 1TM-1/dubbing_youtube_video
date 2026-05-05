@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.vev/
+.venv/
+
+build/
+dist/
+
+tts_cache/
+tmp/
+tmp_file/
+segments/
+dubbing/
+
+.DS_Store
+Thumbs.db

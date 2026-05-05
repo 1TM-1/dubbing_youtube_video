@@ -1,0 +1,8 @@
+yt_dlp
+youtube-transcript-api==0.6.2
+PyQt6 
+gtts 
+deep_translator
+pydub
+audioop-lts
+moviepy==1.0.3
